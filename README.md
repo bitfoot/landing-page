@@ -1,3 +1,3 @@
-# odin-site
+# Landing Page
 
-This is a practice site, created for one of the assignments in The Odin Project.
+This is a practice page, created for the Landing Page assignment in The Odin Project.
